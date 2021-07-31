@@ -1,2 +1,2 @@
-# mdule2-solution
-https://dilshadhnasreen.github.io/mdule2-solution/
+#HTML/CSS part1
+https://dilshadhnasreen.github.io/HTML-CSS---part1/
